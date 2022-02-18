@@ -1,0 +1,1 @@
+var binatang=['dani', 'zaki', 'dapi', 'aden', 'anton', 'tatang',];
